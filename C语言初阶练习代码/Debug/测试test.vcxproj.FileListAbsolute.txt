@@ -1,0 +1,4 @@
+E:\算法设计作业\测试test\Debug\测试test.exe
+E:\算法设计作业\测试test\Debug\测试test.pdb
+D:\算法设计作业\测试test\Debug\测试test.exe
+D:\算法设计作业\测试test\Debug\测试test.pdb
